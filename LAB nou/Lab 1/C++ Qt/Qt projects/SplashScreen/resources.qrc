@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>lightroom.png</file>
+        <file>wait.gif</file>
+    </qresource>
+</RCC>

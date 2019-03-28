@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>wind.png</file>
+    </qresource>
+</RCC>
